@@ -30,28 +30,7 @@ The goal of this project is to **detect fraudulent transactions in financial dat
 - **Logistic Regression + SMOTE** performs well on imbalanced classification tasks.
 - ROC curves and confusion matrices demonstrate performance trade-offs.
 
----
 
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/fraud-detection-system.git
-   cd fraud-detection-system
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Open the Jupyter Notebook / Google Colab file:
-   ```bash
-   FRAUD_DETECTION_SYSTEM_POLISHED.ipynb
-   ```
-
-4. Run all cells to train and evaluate the fraud detection models.
-
----
 
 ## 📦 Requirements
 - Python 3.x
